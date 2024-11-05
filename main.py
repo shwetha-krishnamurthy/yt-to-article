@@ -7,7 +7,7 @@ from datetime import datetime
 from langchain import hub
 from langchain_openai import ChatOpenAI
 from langchain_core.output_parsers import StrOutputParser
-import pyperclip  # For copy to clipboard functionality
+# import pyperclip  # For copy to clipboard functionality
 
 # Optional imports for additional features
 from io import StringIO
